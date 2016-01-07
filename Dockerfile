@@ -1,4 +1,4 @@
 FROM ubuntu:14.04
 RUN apt-get update
-RUN exit 1
+ADD http://asfasfsa/fa/sf/saf/saf/ /asd
 CMD sleep 5m
